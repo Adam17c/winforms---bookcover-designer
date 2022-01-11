@@ -1,0 +1,60 @@
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\bin\Debug\net5.0-windows\en\WinFormsApp1.resources.dll
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\bin\Debug\net5.0-windows\pl-PL\WinFormsApp1.resources.dll
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.en.resources
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.pl-PL.resources
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.en.resources
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.pl-PL.resources
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form3.en.resources
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form3.pl-PL.resources
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\en\WinFormsApp1.resources.dll
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\pl-PL\WinFormsApp1.resources.dll
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Adam\Desktop\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\bin\Debug\net5.0-windows\en\WinFormsApp1.resources.dll
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\bin\Debug\net5.0-windows\pl-PL\WinFormsApp1.resources.dll
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.resources
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form3.resources
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.en.resources
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.pl-PL.resources
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.en.resources
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.pl-PL.resources
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form3.en.resources
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form3.pl-PL.resources
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\en\WinFormsApp1.resources.dll
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\pl-PL\WinFormsApp1.resources.dll
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+G:\studia\studia\PwŚG\laby\forms\laby część domowa\winforms\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache

@@ -1,0 +1,328 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;radioButtonCenter.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="radioButtonRight.Text" xml:space="preserve">
+    <value>Right</value>
+  </data>
+  <data name="&gt;&gt;buttonCancel.Name" xml:space="preserve">
+    <value>buttonCancel</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLeft.Parent" xml:space="preserve">
+    <value>groupBoxTextAlignment</value>
+  </data>
+  <data name="labelFontSize.Text" xml:space="preserve">
+    <value>Font Size</value>
+  </data>
+  <assembly alias="System.Private.CoreLib" name="System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" />
+  <data name="textBox.Multiline" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;groupBoxTextAlignment.Name" xml:space="preserve">
+    <value>groupBoxTextAlignment</value>
+  </data>
+  <assembly alias="System.Drawing.Primitives" name="System.Drawing.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="radioButtonLeft.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>7, 23</value>
+  </data>
+  <data name="labelFontSize.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>69, 20</value>
+  </data>
+  <data name="&gt;&gt;groupBoxTextAlignment.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="numericUpDownFontSize.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>89, 23</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Text Settings</value>
+  </data>
+  <data name="&gt;&gt;radioButtonCenter.Name" xml:space="preserve">
+    <value>radioButtonCenter</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLeft.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="labelFontSize.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownFontSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="radioButtonRight.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>7, 93</value>
+  </data>
+  <data name="groupBoxTextAlignment.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterParent</value>
+  </data>
+  <data name="buttonOK.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>57, 21</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="radioButtonCenter.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;groupBoxTextAlignment.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="buttonCancel.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="labelFontSize.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 56</value>
+  </data>
+  <data name="buttonOK.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>245, 229</value>
+  </data>
+  <data name="&gt;&gt;radioButtonRight.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="buttonCancel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>67, 229</value>
+  </data>
+  <data name="radioButtonRight.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;radioButtonRight.Parent" xml:space="preserve">
+    <value>groupBoxTextAlignment</value>
+  </data>
+  <data name="textBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 121</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form3</value>
+  </data>
+  <data name="groupBoxTextAlignment.Text" xml:space="preserve">
+    <value>Text Alignment</value>
+  </data>
+  <data name="&gt;&gt;radioButtonRight.Name" xml:space="preserve">
+    <value>radioButtonRight</value>
+  </data>
+  <data name="radioButtonCenter.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>60, 19</value>
+  </data>
+  <data name="&gt;&gt;labelFontSize.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;labelFontSize.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="radioButtonCenter.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="textBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>359, 92</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>384, 262</value>
+  </data>
+  <data name="&gt;&gt;groupBoxTextAlignment.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="numericUpDownFontSize.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>96, 56</value>
+  </data>
+  <data name="textBox.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="groupBoxTextAlignment.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>181, 113</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing.Primitives">
+    <value>7, 15</value>
+  </data>
+  <data name="&gt;&gt;buttonOK.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>400, 300</value>
+  </data>
+  <data name="&gt;&gt;buttonCancel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonRight.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLeft.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="buttonOK.Text" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="&gt;&gt;textBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="radioButtonLeft.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;radioButtonCenter.Parent" xml:space="preserve">
+    <value>groupBoxTextAlignment</value>
+  </data>
+  <data name="radioButtonLeft.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>45, 19</value>
+  </data>
+  <data name="numericUpDownFontSize.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="textBox.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI, 9pt</value>
+  </data>
+  <data name="&gt;&gt;buttonOK.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonOK.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="radioButtonCenter.Text" xml:space="preserve">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;labelFontSize.Name" xml:space="preserve">
+    <value>labelFontSize</value>
+  </data>
+  <data name="groupBoxTextAlignment.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>191, 3</value>
+  </data>
+  <data name="radioButtonLeft.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;textBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;buttonOK.Name" xml:space="preserve">
+    <value>buttonOK</value>
+  </data>
+  <data name="&gt;&gt;radioButtonLeft.Name" xml:space="preserve">
+    <value>radioButtonLeft</value>
+  </data>
+  <data name="radioButtonLeft.Text" xml:space="preserve">
+    <value>Left</value>
+  </data>
+  <data name="radioButtonRight.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="radioButtonCenter.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>7, 57</value>
+  </data>
+  <data name="&gt;&gt;radioButtonCenter.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="labelFontSize.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;labelFontSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonCancel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="buttonCancel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>57, 21</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>400, 300</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownFontSize.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="textBox.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;buttonCancel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="buttonOK.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>7</value>
+  </data>
+  <data name="radioButtonRight.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>53, 19</value>
+  </data>
+  <data name="buttonCancel.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>6</value>
+  </data>
+  <data name="labelFontSize.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI, 11.25pt</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownFontSize.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBox.Name" xml:space="preserve">
+    <value>textBox</value>
+  </data>
+  <data name="&gt;&gt;numericUpDownFontSize.Name" xml:space="preserve">
+    <value>numericUpDownFontSize</value>
+  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>pl-PL</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+</root>
